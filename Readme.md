@@ -18,6 +18,19 @@ I completed the **NPTEL Programming in Python** course conducted by IIT professo
 
 ## 📁 Programs in This Repository
 
+
+🧮 Python BMI Calculator
+
+This is a simple command-line Python project that calculates a person's Body Mass Index (BMI) based on their weight and height.
+
+📌 Features
+Takes height input in meters, centimeters, or feet
+Calculates BMI using the standard formula
+Classifies result into: Underweight, Normal, Overweight, or Obese
+Handles invalid inputs using try-except
+
+
+
 | File Name                    | Description                                           |
 |-----------------------------|-------------------------------------------------------|
 | `area_calculate.py`         | Calculates area of shapes using formulas              |
